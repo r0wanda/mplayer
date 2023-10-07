@@ -16,7 +16,7 @@
         "audio",
         "player"
     ],
-    "author": "Krzysztof Jakubik",
+    "author": "Krzysztof Jakubik (patched by rowanda)",
     "license": "MIT",
     "bugs": {
         "url": "https://github.com/noodny/mplayer/issues"
